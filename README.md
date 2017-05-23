@@ -1,5 +1,7 @@
-# fsdse-python-assignment-168
-## Implement fibonacci recursively, dynamically, and iteratively
+# Implement fibonacci recursively, dynamically, and iteratively
+
+
+## Constraints
 * Does the sequence start at 0 or 1?
     * 0
 * Can we assume the inputs are valid non-negative ints?
